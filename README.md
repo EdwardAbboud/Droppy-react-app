@@ -1,8 +1,4 @@
-`TODO: Add a nice screenshot of the app!`
-
-# Class 36 final project
-
-This is the final project for the HackYourFuture curriculum we did as a class using the MERN stack by following the agile methodology with our team and a group of mentors. A quick guide to what we built:
+# Graduation project
 
 Droppy is an initiative to help people move their items from point A to point B. Lately there has been growth in the amount of apps that connect people together to share products and services. We wanted to use the same logic to allow communities around the netherlands to use this app to move their items around and get help doing so. Whether it's big, medium or small items, the user can log in and create a request for help. This request will then be visible to any user with vehicle information attached and can be accept the job. Once the job has been accepted the 'creator' of the job can see all the drivers that are willing to help them out and they are then encouraged to follow up away from the app.
 
